@@ -24,3 +24,14 @@ hs_err_pid*
 replay_pid*
 
 application.properties
+
+# IDE mappák
+.idea/
+.vscode/
+
+# Build output
+target/
+out/
+
+# MacOS
+.DS_Store
